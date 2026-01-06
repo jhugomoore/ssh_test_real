@@ -1,3 +1,4 @@
+#t34598
 connection: "performance_test_pg"
 explore: customer_order_facts {}
 view: customer_order_facts {
